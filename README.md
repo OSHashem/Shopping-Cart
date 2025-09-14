@@ -2,6 +2,8 @@
 
 A Shopping Cart web application built with **Laravel**, featuring secure user authentication, product browsing, cart management, and Stripe-powered checkout.  
 
+> 📝 This project was developed as part of my internship at **IT-Gates**.  
+
 ## 🚀 Features
 - User authentication (login/register/logout)  
 - Product listing and details pages  
